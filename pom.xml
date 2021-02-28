@@ -73,7 +73,7 @@
               <goal>compile</goal>
             </goals>
           </execution>
-        </executions>
+        </executions>    
         <configuration>
           <source>11</source>
           <target>11</target>
